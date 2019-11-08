@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RTree",
+        "repositoryURL": "https://github.com/emma-k-alexandra/RTree.git",
+        "state": {
+          "branch": null,
+          "revision": "45172c0d71f5d3183dffb4db6ae73135e810872f",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "WMATA",
+        "repositoryURL": "https://github.com/emma-k-alexandra/WMATA.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "da45e1cd80c48e2a65414f29b90c9a68b8964eeb",
+          "version": "5.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
