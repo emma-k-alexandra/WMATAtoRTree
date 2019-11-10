@@ -36,4 +36,4 @@ MetroRail(key: apiKey).entrances(at: nil) { result in
     
 }
 
-Thread.sleep(forTimeInterval: 5)
+Thread.sleep(forTimeInterval: 60)

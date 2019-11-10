@@ -1,3 +1,3 @@
-# WMATAtoRTree
+# WMATA to RTree
 
-A description of this package.
+Builds an R-Tree from WMATA Station Entrances
