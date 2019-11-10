@@ -78,7 +78,7 @@ struct Element: SpatialObject {
     }
     
     func distanceSquared(point: Point) -> Double {
-        pow(self.point.x, 2) + pow(self.point.y, 2)
+        pow(point.x - self.point.x, 2) + pow(point.y - self.point.y, 2)
         
     }
     
