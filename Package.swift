@@ -7,7 +7,7 @@ let package = Package(
     name: "WMATAtoRTree",
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/emma-k-alexandra/RTree.git", from: "2.0.1"),
+        .package(url: "https://github.com/emma-k-alexandra/RTree.git", from: "2.1.0"),
         .package(url: "https://github.com/emma-k-alexandra/WMATA.swift.git", from: "5.1.2")
     ],
     targets: [
