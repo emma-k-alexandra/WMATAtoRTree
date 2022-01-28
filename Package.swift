@@ -21,7 +21,7 @@ let package = Package(
         .package(
             name: "WMATA",
             url: "https://github.com/emma-k-alexandra/WMATA.swift.git",
-            from: "11.0.0"
+            from: "13.0.0"
         )
     ],
     targets: [
