@@ -16,12 +16,12 @@ let package = Package(
         .package(
             name: "RTree",
             url: "https://github.com/emma-k-alexandra/RTree.git",
-            .exact(.init(2, 2, 0))
+            .upToNextMajor(from: .init(2, 2, 1))
         ),
         .package(
             name: "WMATA",
             url: "https://github.com/emma-k-alexandra/WMATA.swift.git",
-            from: "13.0.0"
+            .upToNextMajor(from: .init(13, 2, 0))
         )
     ],
     targets: [
